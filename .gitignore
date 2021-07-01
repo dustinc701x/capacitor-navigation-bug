@@ -1,0 +1,8 @@
+
+node_modules/.bin/cap
+.idea/
+node_modules/
+.vscode/
+*.map
+.DS_Store
+.sourcemaps
